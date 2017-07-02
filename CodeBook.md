@@ -17,7 +17,7 @@ Further information on the UCI HAR study is available here: http://archive.ics.u
 
 ## Variables - Description from the UCI HAR study
 
-These data come from accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ. 
+These data come from accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ. All measurements are in Hz.
 
 * Variables that begin with "Time" are time domain signals.
 * Variables that begin with "Freq" are frequency domain signals, indicating variables to which a Fast Fourier Transform (FFT) was applied.
